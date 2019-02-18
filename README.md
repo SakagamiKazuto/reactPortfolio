@@ -1,6 +1,6 @@
 こんにちは。
-このポートフォリオは以下のサイトを参考につつ、
-https://qiita.com/rioc/items/8723c236e10d989e827d
+このポートフォリオはhttps://qiita.com/rioc/items/8723c236e10d989e827d のサイトを参考につつ、
+
 
 1.リストidを生成
 2.リストの保存
